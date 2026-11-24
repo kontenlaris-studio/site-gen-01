@@ -1,3 +1,11 @@
+<div align="center">
+<img src="assets/logo.png?v=1" width="280" alt="site-gen-01 logo">
+
+**site-gen — a faster drop-in static site generator, byte-identical output at ~1.45x the speed.**
+
+![JavaScript](https://img.shields.io/badge/language-JavaScript-0A1931?style=for-the-badge&labelColor=FF7A00) ![License MIT](https://img.shields.io/badge/license-MIT-0A1931?style=for-the-badge&labelColor=FF7A00) ![By Kontenlaris Studio](https://img.shields.io/badge/by-Kontenlaris_Studio-0A1931?style=for-the-badge&labelColor=FF7A00)
+</div>
+
 # site-gen-01
 
 [![make.fun · site-generator-speed-01-run-20261122](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
